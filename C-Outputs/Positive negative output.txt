@@ -1,0 +1,8 @@
+C:\Users\YourName\Documents\CPrograms>check_number.exe
+Enter any number: -5
+The number is negative.
+
+C:\Users\YourName\Documents\CPrograms>check_number.exe
+Enter any number: 0
+The number is zero.
+
